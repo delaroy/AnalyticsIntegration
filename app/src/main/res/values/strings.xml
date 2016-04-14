@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AnalyticsIntegration</string>
+
+    <string name="hello_world">Welcome to Google Analytics Integration!</string>
+    <string name="action_settings">Settings</string>
+</resources>
